@@ -8,6 +8,10 @@ CLI for displaying content of file in terminal.
 `sudo mv copen /usr/bin`
 
 # Usage
+`-l`\
+`-s`\
+`-S`\
+
 `copen example.txt`
 
 ![image](https://github.com/user-attachments/assets/6389905f-d470-480a-9b7c-7d42d973118d)
