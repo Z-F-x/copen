@@ -8,11 +8,11 @@ CLI for displaying content of file in terminal.
 `sudo mv copen /usr/bin`
 
 # Usage
-`-l`\ show only stats in column
-`-s` Show stats in row after file content
-`-S` Show only file content
-`-l -S` Show only stats in column
-`-S -l` Show only stats in row
+`-l` show only stats in column\
+`-s` Show stats in row after file content\
+`-S` Show only file content\
+`-l -S` Show only stats in column\
+`-S -l` Show only stats in row\
 
 `copen -l example.txt `
 
