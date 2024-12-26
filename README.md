@@ -12,6 +12,11 @@ CLI for displaying content of file in terminal.
 `-s`\
 `-S`
 
+`copen -l example.txt `
+
+![image](https://github.com/user-attachments/assets/cfcad8ea-8c29-4c63-a085-172206a63275)
+
+
 `copen example.txt`
 
 ![image](https://github.com/user-attachments/assets/6389905f-d470-480a-9b7c-7d42d973118d)
