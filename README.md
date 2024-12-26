@@ -12,7 +12,7 @@ CLI for displaying content of file in terminal.
 `-s` Show stats in row after file content\
 `-S` Show only file content\
 `-l -S` Show only stats in column\
-`-S -l` Show only stats in row\
+`-S -l` Show only stats in row
 
 `copen -l example.txt `
 
