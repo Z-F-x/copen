@@ -9,8 +9,8 @@ CLI for displaying content of file in terminal.
 
 # Usage
 `-l`\ show only stats in column
-`-s`\ Show stats in row after file content
-`-S`\ Show only file content
+`-s` Show stats in row after file content
+`-S` Show only file content
 `-l -S` Show only stats in column
 `-S -l` Show only stats in row
 
