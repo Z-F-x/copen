@@ -1,6 +1,11 @@
 # copen
 CLI for displaying content of file in terminal. 
 
+`copen -l example.txt `
+
+![image](https://github.com/user-attachments/assets/cfcad8ea-8c29-4c63-a085-172206a63275)
+
+
 # Installation: 
 
 `git clone https://github.com/Z-F-x/copen.git`\
@@ -14,14 +19,15 @@ CLI for displaying content of file in terminal.
 `-l -S` Show only stats in column\
 `-S -l` Show only stats in row
 
-`copen -l example.txt `
-
-![image](https://github.com/user-attachments/assets/cfcad8ea-8c29-4c63-a085-172206a63275)
-
-
+# Without flags
 `copen example.txt`
 
 ![image](https://github.com/user-attachments/assets/6389905f-d470-480a-9b7c-7d42d973118d)
+
+# with -l flag
+`copen -l example.txt `
+
+![image](https://github.com/user-attachments/assets/cfcad8ea-8c29-4c63-a085-172206a63275)
 
 # with -s flag 
 
