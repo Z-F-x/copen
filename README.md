@@ -10,7 +10,7 @@ CLI for displaying content of file in terminal.
 
 `git clone https://github.com/Z-F-x/copen.git`\
 `cd copen`\
-`sudo mv copen /usr/bin`
+`sudo cp copen /usr/bin`
 
 # Usage
 `-l` show only stats in column\
